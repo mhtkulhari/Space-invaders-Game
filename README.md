@@ -5,6 +5,11 @@ Our project aims to recreate the nostalgic experience of playing Space Invaders 
 The game was developed using Pygame, a popular Python library for creating 2D games, providing a versatile platform for game development.
 
 
+![image](https://github.com/mhtkulhari/Space-invaders-Game/assets/103040019/a65c27a7-6966-4205-9465-911be0175011)
+
+![image](https://github.com/mhtkulhari/Space-invaders-Game/assets/103040019/b63a928b-2bbc-4733-9295-d55e6524d989)
+
+
 Our primary objective was to develop a fully functional version of the Space Invaders game that captures the essence of the original while adding our unique touch.
  
 Implement player controls, alien movement, and shooting mechanics to mimic the original Space Invaders gameplay. 
@@ -32,10 +37,6 @@ Laser Module: Implements laser projectiles for both the player and aliens, inclu
 Obstacle Module: Generates obstacles on the game screen to provide cover for the player and add strategic depth to gameplay.
    
 Additional Modules: Incorporate extra features such as sound effects, scoring, and game state management.
-
-
-![image](https://github.com/mhtkulhari/Space-invaders-Game/assets/103040019/a65c27a7-6966-4205-9465-911be0175011)
-![image](https://github.com/mhtkulhari/Space-invaders-Game/assets/103040019/b63a928b-2bbc-4733-9295-d55e6524d989)
 
 
 Throughout the development process, we encountered various challenges, including optimizing game performance, debugging complex interactions, and balancing gameplay mechanics.
